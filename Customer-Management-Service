@@ -1,6 +1,6 @@
 
 spring.datasource.username=root
-spring.datasource.password=Root
+spring.datasource.password=Welcome123$
 
 hibernate.dialect=org.hibernate.dialect.HSQLDialect
 spring.jpa.hibernate.ddl-auto=update
