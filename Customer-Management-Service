@@ -2,7 +2,7 @@
 spring.datasource.username=root
 spring.datasource.password=Root
 
-spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQLDialect
+hibernate.dialect=org.hibernate.dialect.HSQLDialect
 spring.jpa.hibernate.ddl-auto=update
 
 eureka.instance.client.serviceUrl.defaultZone=http://localhost:8761/eureka/
