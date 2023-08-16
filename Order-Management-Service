@@ -1,7 +1,7 @@
 spring.datasource.username=root
 spring.datasource.password=Welcome123$
 
-hibernate.dialect=org.hibernate.dialect.HSQLDialect
+ spring.jpa.properties.hibernate.dialect = org.hibernate.dialect.MySQLDialect
 spring.jpa.hibernate.ddl-auto=update
 spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 
