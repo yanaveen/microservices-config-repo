@@ -3,6 +3,7 @@ spring.datasource.password=Welcome123$
 
 hibernate.dialect=org.hibernate.dialect.HSQLDialect
 spring.jpa.hibernate.ddl-auto=update
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
 
 server.port = 8081
 
